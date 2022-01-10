@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0, 119, 255, 0.959);
+}
+
+td{
+    color: aqua;
+
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+}
+
+th{
+    color: rgb(217, 255, 0);
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Vujahday Script', cursive;
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+
+}
+
+caption{
+    color: rgb(255, 0, 0);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Vujahday Script', cursive;
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Yuji Hentaigana Akebono', cursive  
+}
+
+.material-icons-outlined{
+    background-color:rgba(7, 0, 8, 0.959);
+    color: rgb(231, 21, 21);
+  }
